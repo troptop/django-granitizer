@@ -1,0 +1,16 @@
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+django_granitizer.egg-info/PKG-INFO
+django_granitizer.egg-info/SOURCES.txt
+django_granitizer.egg-info/dependency_links.txt
+django_granitizer.egg-info/top_level.txt
+granitizer/__init__.py
+granitizer/admin.py
+granitizer/apps.py
+granitizer/granitizers.py
+granitizer/models.py
+granitizer/tests.py
+granitizer/views.py
+granitizer/migrations/__init__.py
