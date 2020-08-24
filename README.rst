@@ -187,17 +187,3 @@ result:
   }
 }
 
-  "input": {
-  "input": {
-    "business": {
-      "data": {
-        "description": "19-08 cyril",
-        "name": "re jana",
-        "locationLat": 10,
-        "locationLng": 10,
-        "locationName": "Porto",
-        "type": "QlR5cGVOb2RlOjI="
-      }
-    }
-  }
-}
