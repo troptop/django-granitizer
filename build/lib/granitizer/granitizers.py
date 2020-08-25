@@ -48,10 +48,6 @@ class Granitizer(object):
         self.implicit_filter = implicit_filter
         self.global_filter = {**self.initial_filter, **self.implicit_filter}
         self.initial_payload = self.get_data_from_input(self.payload_key)
-        if not self.initial_payload:
-            raise Exception(
-                "No payload in the request"
-            )
         self.implicit_payload = implicit_payload
         self.global_payload = {**self.initial_payload, **self.implicit_payload} 
         self.queryset = None

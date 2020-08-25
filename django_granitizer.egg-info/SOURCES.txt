@@ -9,6 +9,7 @@ django_granitizer.egg-info/top_level.txt
 granitizer/__init__.py
 granitizer/admin.py
 granitizer/apps.py
+granitizer/exceptions.py
 granitizer/granitizers.py
 granitizer/models.py
 granitizer/tests.py
